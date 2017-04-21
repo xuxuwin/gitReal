@@ -19,6 +19,7 @@ public class GitApplication {
     @RequestMapping(value="/test")
     public String test(){
         System.out.println("ddd");
+        double e=2.2222;
         return "dwdw";
     }
 
