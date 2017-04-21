@@ -20,7 +20,7 @@ public class GitApplication {
     public String test(){
         System.out.println("ddd");
         double e=2.2222;
-        int g=90;
+        int g=978880;
         return "dwdw";
     }
 
