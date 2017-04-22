@@ -21,6 +21,7 @@ public class GitApplication {
         System.out.println("ddd");
         double e=2.2222;
         int g=88503;
+        boolean f=true;
         return "dcddd";
     }
 
