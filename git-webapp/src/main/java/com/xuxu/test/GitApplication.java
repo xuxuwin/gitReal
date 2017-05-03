@@ -20,6 +20,8 @@ public class GitApplication {
     public String test(){
         System.out.println("ddd");
         double e=2.2222;
+		
+		
         return "dwdw";
     }
 
