@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class GitApplication {
     public static void  main(String[] args) {
+
         SpringApplication.run(GitApplication.class, args);
     }
 
@@ -20,9 +21,10 @@ public class GitApplication {
     public String test(){
         System.out.println("ddd");
         double e=2.2222;
-		
-		
-        return "dwdw";
+        
+        int g=88263;
+        return "dcfdd";
+
     }
 
 }
